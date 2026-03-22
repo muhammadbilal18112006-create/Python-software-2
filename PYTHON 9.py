@@ -91,7 +91,6 @@ def main():
 
     print("Current speed:", my_car.current_speed, "km/h")
 
-    # Emergency brake
     my_car.accelerate(-200)
     print("Speed after emergency brake:", my_car.current_speed, "km/h")
 

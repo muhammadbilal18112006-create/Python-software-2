@@ -56,3 +56,4 @@ def airport(icao):
 
 
 if __name__ == "__main__":
+    app.run(use_reloader=False)
